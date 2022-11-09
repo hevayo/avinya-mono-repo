@@ -1,0 +1,12 @@
+[submodule "admissions-application-bff"]
+	path = admissions-application-bff
+	url = https://github.com/Avinya-Foundation/admissions-application-bff.git
+[submodule "global-data"]
+	path = global-data
+	url = https://github.com/Avinya-Foundation/global-data.git
+[submodule "human-resources-admin-bff"]
+	path = human-resources-admin-bff
+	url = https://github.com/Avinya-Foundation/human-resources-admin-bff.git
+[submodule "SMS-HRMS-API"]
+	path = SMS-HRMS-API
+	url = https://github.com/Avinya-Foundation/SMS-HRMS-API.git
