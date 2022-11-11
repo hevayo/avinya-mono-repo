@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"name": "Admissions BFF API",
+			"path": "admissions-application-bff/api"
+		},
+		{
+			"name": "Global Data API",
+			"path": "global-data/api"
+		},
+		{
+			"name": "HR BFF API",
+			"path": "human-resources-admin-bff/api"
+		},
+		{
+			"path": "SMS-HRMS-API"
+		}
+	],
+	"settings": {}
+}
